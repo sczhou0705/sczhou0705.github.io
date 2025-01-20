@@ -1,9 +1,9 @@
 # Site settings
 title: Shichao's Blog
-SEOTitle: BY Shichao
-header-img: img/post-bg-desk.jpg
+SEOTitle: Shichao Zhou's Blog
+header-img: img/header-bg-generic.jpg
 email: zhoushichao888@gmail.com
-description: "Every failure is leading towards success."
+description: ""
 keyword: "GenAI, AWS, Machine Learning, Dify, OpenAI, GPT"
 url: "http://zhou.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/sczhou0705/zhou.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: ""
 sidebar-avatar: /img/shichao-avatar.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: zhou.github.io    #仓库名称
+  repo: sczhou0705.github.io    #仓库名称
   owner: sczhou0705    #github用户名
   admin: sczhou0705
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple",
-        href: "https://apple.com"
+        title: "LinkedIn",
+        href: "https://www.linkedin.com/in/shichaoz/"
     }
 ]
