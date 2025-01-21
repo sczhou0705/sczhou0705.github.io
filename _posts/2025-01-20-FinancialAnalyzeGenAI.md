@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Financial Analyze GenAI Demo
+title:      Financial Analysis GenAI Demo
 subtitle:   
 date:       2025-01-20
 author:     Shichao Zhou
